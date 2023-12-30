@@ -52,7 +52,7 @@ From 2017 to Q3 2018, the store had a total of 29742 available stock items, and 
 
 *(Note: Please interact with the dashboard to see available stock for each product category in each location)*
 
-### Project Limitation
+## Project Limitation
 Not enough data to validate sales pattern or trends, and the dataset does not cover Q4 2018 sales. The inclusion of Q4 2O18 data would have helped in providing a holistic view of the annual sales growth. "Something like comparing apples to apples, you get what I mean?"
 
 If you have gotten this far in my write-up, thanks so much, and what do you think about this mini project?
