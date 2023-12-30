@@ -1,11 +1,15 @@
 # A-Dynamic-Excel-Sales-Dashboard
 
+
+![image](https://github.com/NUgonna/A-Dynamic-Excel-Sales-Dashboard/assets/51289316/05e9f7b9-2fee-465c-a046-104838609b59)
+
+
 ## Overview
 For the love of sales and Excel! Mexican Toys stores is a fictitious company that has different product categories with stores located in different areas of the city and the team urgently needs a dashboard that allows them to monitor sales trend, know how much stock is being tied up at each store location, how much revenue has been made over time etc.
 The Excel Sales dashboard is a dynamic and interactive dashboard that allows the team to determine trends or patterns in sales, the revenue and profit made by the company from 2017 to Q3 2018 across various locations and for each product category. 
 
 ## Data Source
-* (https://mavenanalytics.io/data-playground?search=Toy)[Maven Analytics]
+* This is a sample dataset from Maven Analytics. (https://mavenanalytics.io/data-playground?search=Toy) [Maven Analytics]
 
 ## Activities Performed For During This Project
 *	KPI Identification
@@ -21,11 +25,11 @@ Below are some major analysis and insights uncovered from the dataset
 
 ### 1.	How much money did the company make from 2017 to Q3 2018?
 
-The company made $14,444,572 from sales within the period in review.
+The company made **$14,444,572** from sales within the period in review.
 
 ### 2.	Are there any sales trends or patterns in the data?
 
-Absolutely! An upward sales trend was observed from 2017 to Q3 2018, and the analysis revealed a year-over-year (YOY) quarterly sales growth of 30.86%. 
+Absolutely! An upward sales trend was observed from 2017 to Q3 2018, and the analysis revealed a year-over-year (YOY) quarterly sales growth of **30.86%**. 
 *(See YOY quarterly sales growth analysis in the ‘Analysis Sheet’ of the Workbook)*
 
 Additionally, a consistent pattern emerged with a decline in sales during Q3 of each year, particularly in the month of August and it is worth noting that sales consistently peaked in the second quarter of each year. 
@@ -48,5 +52,8 @@ From 2017 to Q3 2018, the store had a total of 29742 available stock items, and 
 
 *(Note: Please interact with the dashboard to see available stock for each product category in each location)*
 
+### Project Limitation
+Not enough data to validate sales pattern or trends, and the dataset does not cover Q4 2018 sales. The inclusion of Q4 2O18 data would have helped in providing a holistic view of the annual sales growth. "Something like comparing apples to apples, you get what I mean?"
 
+If you have gotten this far in my write-up, thanks so much, and what do you think about this mini project?
 
