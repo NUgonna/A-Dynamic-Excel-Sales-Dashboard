@@ -9,7 +9,7 @@ For the love of sales and Excel! Mexican Toys stores is a fictitious company tha
 The Excel Sales dashboard is a dynamic and interactive dashboard that allows the team to determine trends or patterns in sales, the revenue and profit made by the company from 2017 to Q3 2018 across various locations and for each product category. 
 
 ## Data Source
-* This is a sample dataset from Maven Analytics. (https://mavenanalytics.io/data-playground?search=Toy) [Maven Analytics]
+* This is a sample dataset from Maven Analytics. (https://mavenanalytics.io/data-playground?search=Toy)
 
 ## Activities Performed For During This Project
 *	KPI Identification
