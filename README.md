@@ -5,19 +5,18 @@
 
 
 ## Overview
-For the love of sales and Excel! Mexican Toys stores is a fictitious company that has different product categories with stores located in different areas of the city and the team urgently needs a dashboard that allows them to monitor sales trend, know how much stock is being tied up at each store location, how much revenue has been made over time etc.
-The Excel Sales dashboard is a dynamic and interactive dashboard that allows the team to determine trends or patterns in sales, the revenue and profit made by the company from 2017 to Q3 2018 across various locations and for each product category. 
+For the love of sales and Excel! Mexico Toys  is a fictitious toys company that sells different product categories with stores located in different areas of the city and the team urgently needs a dashboard that allows them to monitor sales trend, know how much stock is being tied up at each store location, how much revenue has been made over time etc.
+The Excel Sales dashboard is a dynamic and interactive dashboard that allows the team to observe trends or patterns in sales, the revenue and profit made by the company from 2017 to Q3 2018 across various locations and for each product category. 
 
 ## Data Source
 * This is a sample dataset from Maven Analytics. (https://mavenanalytics.io/data-playground?search=Toy)
 
-## Activities Performed For During This Project
+## Activities I Performed To Complete This Project
 *	KPI Identification
-*	Data Cleaning – Removal of unnecessary columns, checked for primary key duplication for certain tables provided (sales table), data type formatting using Power Query and 
-  loading the data into Power Pivot.
+*	Data Cleaning – Removal of unnecessary columns not need for my analysis, checked for primary key duplication for certain tables provided (sales table), data type formatting using Power Query and loading the data into Power Pivot.
 *	Data Modelling/Relationship Creation: I used the PowerPivot feature to create relationships between the four tables provided.
-*	Data Analysis: This was achieved using Pivot Tables and Power Pivot. Measures and other column calculations were performed within the Power Pivot environment.
-*	Data Reporting/Dashboarding: Each visualization was done using the Pivot Chart and other chart elements within Excel.
+*	Data Analysis: I performed my analysis using Pivot Tables. Measures and other column calculations were performed within the Power Pivot environment.
+*	Data Reporting/Dashboarding: Each visualization was done using the Pivot Charts and other chart elements within Excel.
 
 ## Analysis and Insights
 
