@@ -46,7 +46,7 @@ Overall, the Toys product category drove the biggest profit for the store, toppi
 Stores situated in the commercial and airport areas got their biggest profits from electronics sales, whereas stores located in Downtown and Residential areas saw their most substantial profits from the sale of toys. 
 
 
-### 4.	How much money is tied up in inventory at the toy stores? How long will it last?
+### 4.	How much money is tied up in inventory at the toy stores?
 
 From 2017 to Q3 2018, the store had a total of 29742 available stock items, and the amount tied up in inventory was $410,241.
 
