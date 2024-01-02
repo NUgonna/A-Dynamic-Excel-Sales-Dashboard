@@ -5,7 +5,7 @@
 
 
 ## Overview
-For the love of sales and Excel! Mexico Toys  is a fictitious toys company that sells different product categories with stores located in different areas of the city and the team urgently needs a dashboard that allows them to monitor sales trend, know how much stock is being tied up at each store location, how much revenue has been made over time etc.
+For the love of sales and Excel! Mexico Toys  is a fictitious toys company that sells different product categories with stores located in different areas of the city and the team urgently needs a dashboard that allows them to monitor sales trends/patterns, know how much stock is being tied up at each store location, how much revenue has been made over time etc.
 The Excel Sales dashboard is a dynamic and interactive dashboard that allows the team to observe trends or patterns in sales, the revenue and profit made by the company from 2017 to Q3 2018 across various locations and for each product category. 
 
 ## Data Source
