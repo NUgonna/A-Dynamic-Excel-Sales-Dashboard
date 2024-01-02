@@ -48,7 +48,7 @@ Stores situated in the commercial and airport areas got their biggest profits fr
 
 ### 4.	How much money is tied up in inventory at the toy stores?
 
-From 2017 to Q3 2018, the store had a total of 29742 available stock items, and the amount tied up in inventory was $410,241.
+From 2017 to Q3 2018, the store had a total of 29,742 available stock items, and the amount tied up in inventory was $410,241.
 
 *(Note: Please interact with the dashboard to see available stock for each product category in each location)*
 
