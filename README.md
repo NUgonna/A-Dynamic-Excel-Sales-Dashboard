@@ -35,7 +35,7 @@ Additionally, a consistent pattern emerged with a decline in sales during Q3 of 
 
 *(Please refer to the main dashboard for a visual interaction)*
 
-(Note: The dataset excludes Q4 2018 sales information. The YOY quarterly growth calculation is based on comparing total sales in the first three quarters of 2017 to the corresponding period in 2018. It's important to highlight that the dataset does not encompass Q4 2018 sales data)
+(Note: The dataset excludes Q4 2018 sales information. The YOY quarterly growth calculation is based on comparing total sales in the first three quarters of 2017 to the corresponding period in 2018)
 
 
 ### 3.	Which product category drive the biggest profits? Is this the same across store locations?
